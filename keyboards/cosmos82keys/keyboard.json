@@ -36,6 +36,14 @@
             "watchdog": true
         },
     },
+    "tapping": {
+        "chordal_hold": true,
+        //"dual_role": true,
+        //"hold_on_other_key_press": true,
+        "ignore_mod_tap_interrupt": true,
+        "tap_dance": true,
+        "term": 300
+    },
     "matrix_pins": {
         "rows": ["GP4", "GP5", "GP6", "GP7", "GP8", "GP9", "GP10"],
         "cols": ["GP29", "GP28", "GP27", "GP26", "GP22", "GP21", "GP20"]
