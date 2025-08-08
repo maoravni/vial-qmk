@@ -42,7 +42,7 @@
         //"hold_on_other_key_press": true,
         "ignore_mod_tap_interrupt": true,
         "tap_dance": true,
-        "term": 250
+        //"term": 250
     },
     "matrix_pins": {
         "rows": ["GP4", "GP5", "GP6", "GP7", "GP8", "GP9", "GP10"],
